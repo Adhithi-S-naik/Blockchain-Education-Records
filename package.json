@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "dotenv": "^16.4.5",
+    "ethereumjs-wallet": "^1.0.2",
+    "web3": "^4.8.0"
+  }
+}
