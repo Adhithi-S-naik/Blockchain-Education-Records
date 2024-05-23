@@ -36,7 +36,7 @@
    cd Blockchain-Education-Records
    npm install
    truffle compile
-   truffle --network development
+   truffle migrate --network development
    cd client
    npm install
    npm start
