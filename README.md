@@ -32,7 +32,7 @@
 2. **Clone the Repository and Install Local Dependencies:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Adhithi-S-naik/Blockchain-Education-Records.git
    cd Blockchain-Education-Records
    npm install
    truffle compile
